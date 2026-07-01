@@ -14,7 +14,7 @@ const Hero = () => {
             Full Stack Developer dari Indonesia
           </div>
           <h1 className="max-w-5xl text-4xl font-black tracking-tight text-white sm:text-6xl lg:text-7xl xl:text-8xl">
-            Membangun aplikasi modern dengan engineering yang rapi dan UI yang profesional.
+            Membangun aplikasi Modern dengan Engineering.
           </h1>
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-300 sm:text-xl">
             Saya {profile.name}, Full Stack Developer yang berfokus pada aplikasi web, aplikasi desktop, sistem backend, API, database, UI/UX, dan artificial intelligence.
