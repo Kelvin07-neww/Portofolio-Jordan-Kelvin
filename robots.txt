@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelvin07-neww.github.io/portfolio/sitemap.xml
